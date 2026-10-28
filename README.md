@@ -7,6 +7,7 @@ Public images for AvgSoft's Railway template listings and profile: icons, banner
 | [n8n (w/ workers + webhook processor)](https://railway.com/deploy/fes8j0) | [n8n-queue-mode/](n8n-queue-mode/) |
 | [n8n with workers (1-click)](https://railway.com/deploy/n8n-with-workers-1-1) | [n8n-workers/](n8n-workers/) |
 | Chatwoot (w/ email setup) | [chatwoot/](chatwoot/) |
+| Chatwoot (w/ WhatsApp) | [chatwoot-whatsapp/](chatwoot-whatsapp/) |
 
 AvgSoft workspace avatar: [avgsoft/avatar.png](avgsoft/avatar.png).
 
