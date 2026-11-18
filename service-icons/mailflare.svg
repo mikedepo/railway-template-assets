@@ -1,0 +1,7 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="8" y="8" width="240" height="240" rx="56" fill="#1A6DFF"/><svg x="40" y="40" width="176" height="176" viewBox="0 0 512 512" fill="#FFFFFF">
+  <!-- Mailflare's envelope mark, flattened from its icon-512.png (upstream ships no SVG): a flap above an envelope body with a V notch. Round joins round the corners. -->
+  <g stroke="#FFFFFF" stroke-width="76" stroke-linejoin="round">
+    <path d="M88 136 L428 84 L268 228 Z"/>
+    <path d="M52 230 L268 326 L464 220 L466 402 L54 414 Z"/>
+  </g>
+</svg></svg>
